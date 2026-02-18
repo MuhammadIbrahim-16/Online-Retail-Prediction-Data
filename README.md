@@ -107,5 +107,5 @@ Model performance was assessed using:
 
 ## 👤 Author
 
-**Muhammad Ibrahim**
+**Muhammad Ibrahim** <br>
 BS Data Science – COMSATS University Islamabad
